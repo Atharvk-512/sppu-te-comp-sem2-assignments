@@ -1,2 +1,2 @@
-# spp-te-comp-sem2-assignments
+# sppu-te-comp-sem2-assignments
 SPPU TE (Comp) sem 2 Assignments
